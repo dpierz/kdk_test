@@ -7,7 +7,7 @@ package pl.kobietydokodu.nauka.daria;
 //imię opiekuna (ciąg znaków)
 //Klasa ta powinna też mieć jedną metodę o nazwie przedstawSie.
 // Metoda ta nie przyjmuje żadnych argumentów i zwraca ciąg znaków który jest
-// zdaniem zawierającym imię kotka, jego datę urodzenia, wagę oraz imię opiekuna. 
+// zdaniem zawierającym imię kotka, jego datę urodzenia, wagę oraz imię opiekuna.
 
 import java.util.Date;
 
